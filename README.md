@@ -197,25 +197,7 @@ The shorter, green one is the current experiment I'm running, the red one took o
 2) Add Vanilla PG
 3) Add PPO
 
-## Learning material
 
-Here are some videos I made on RL which may help you to better understand how DQN and other RL algorithms work:
-
-<p align="left">
-<a href="https://www.youtube.com/watch?v=H1NRNGiS8YU" target="_blank"><img src="https://img.youtube.com/vi/H1NRNGiS8YU/0.jpg" 
-alt="DQN paper explained" width="480" height="360" border="10" /></a>
-</p>
-
-And some other ones:
-* [DeepMind: AlphaGo](https://www.youtube.com/watch?v=Z1BELqFQZVM)
-* [DeepMind: AlphaGo Zero and AlphaZero](https://www.youtube.com/watch?v=0slFo1rV0EM)
-* [OpenAI: Solving Rubik's Cube with a Robot Hand](https://www.youtube.com/watch?v=eTa-k1pgvnU)
-* [DeepMind: MuZero](https://www.youtube.com/watch?v=mH7f7N7s79s)
-
-And in this one I tried to film through the process while the project was not nearly as polished as it is now:
-* [DQN project update](https://www.youtube.com/watch?v=DrOp_MQGn9o&ab_channel=TheAIEpiphany)
-
-I'll soon create a blog on how to get started with RL - so stay tuned for that!
 
 ## Citation
 
