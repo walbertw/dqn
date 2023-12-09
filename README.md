@@ -217,16 +217,6 @@ And in this one I tried to film through the process while the project was not ne
 
 I'll soon create a blog on how to get started with RL - so stay tuned for that!
 
-## Acknowledgements
-
-I found these resources useful while developing this project, sorted (approximately) by usefulness:
-
-* [Stable Baselines 3 DQN](https://github.com/DLR-RM/stable-baselines3/blob/master/stable_baselines3/dqn/dqn.py)
-* [PyTorch reimplementation of Berkley's DQN](https://github.com/transedward/pytorch-dqn) and [Berkley's DQN](https://github.com/berkeleydeeprlcourse/homework/tree/master/hw3)
-* [pytorch-dqn](https://github.com/jacobaustin123/pytorch-dqn/blob/master/dqn.py)
-* [RL adventures DQN](https://github.com/higgsfield/RL-Adventure/blob/master/1.dqn.ipynb) and [minimal DQN](https://github.com/econti/minimal_dqn/blob/master/main.py)
-* [Pytorch tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
-
 ## Citation
 
 If you find this code useful, please cite the following:
@@ -241,7 +231,3 @@ If you find this code useful, please cite the following:
   howpublished = {\url{https://github.com/gordicaleksa/pytorch-learn-reinforcement-learning}},
 }
 ```
-
-## Licence
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gordicaleksa/pytorch-learn-reinforcement-learning/blob/master/LICENCE)
