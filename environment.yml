@@ -1,0 +1,33 @@
+name: pytorch-rl-env
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python==3.8.5
+  - pip==21.0.1
+  - pytorch==1.8.1
+  - pip:
+    - matplotlib==3.3.3
+    - GitPython==3.1.2
+    - psutil==5.8.0
+    - stable-baselines3==1.0
+    - opencv-python==4.5.1.48
+    - imageio==2.9.0
+    - jupyter==1.0.0
+    - numpy==1.19.2
+    - tensorboard==2.2.2
+    - gym==0.17.3
+conda install psutil==5.8.0
+conda install stable-baselines3==1.0
+conda install opencv-python==4.5.1.48
+conda install imageio==2.9.0
+conda install jupyter==1.0.0
+conda install numpy==1.19.2
+conda install tensorboard==2.2.2
+conda install gym==0.17.3
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+
+
